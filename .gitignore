@@ -154,3 +154,4 @@ cython_debug/
 .idea/inspectionProfiles/Project_Default.xml
 *.iml
 *.xml
+scratch.py
